@@ -1,0 +1,7 @@
+.card-styling {
+  @apply flex justify-center items-center mt-10 p-2;
+}
+
+.card-body {
+    @apply flex justify-center items-center p-4
+}
