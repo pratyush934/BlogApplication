@@ -1,0 +1,15 @@
+.outer-below-main {
+  @apply h-[50%]  w-[80%] m-5 flex justify-center items-center bg-gray-50 rounded-xl;
+}
+
+.inner-below-main {
+  @apply w-1/2  flex justify-center items-center bg-gray-50 p-5 rounded-2xl;
+}
+
+.card-styling {
+  @apply w-[80%] h-[80%] flex justify-center items-center;
+}
+
+.card {
+  @apply flex justify-center items-center;
+}

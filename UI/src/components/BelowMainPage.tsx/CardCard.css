@@ -1,0 +1,3 @@
+.card-styling {
+  @apply flex justify-center items-center h-full w-full;
+}
