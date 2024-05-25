@@ -1,0 +1,27 @@
+.outer-footer-div {
+  @apply h-[600px] w-full bg-slate-700 mr-5 mb-0;
+}
+
+.inner-footer-div {
+  @apply flex flex-col justify-center items-center;
+}
+
+.footer-header {
+  @apply w-full h-[100px] bg-red-500 border-red-400 border-4 m-4 p-4 flex justify-center items-center;
+}
+
+.footer-main {
+  @apply w-full h-[300px] border-4 border-yellow-200 m-4;
+}
+
+.chief-container {
+  @apply w-full h-[90%] flex justify-center items-center;
+}
+
+.cotainer {
+  @apply w-[10%] h-[80%] border-4 border-b-slate-200 m-4 flex flex-col     justify-center items-center;
+}
+
+h1 {
+  @apply font-bold text-white text-xl
+}

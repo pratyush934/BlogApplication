@@ -3,10 +3,14 @@
 }
 
 .inner-div-header {
-    @apply h-[80px] w-[0100%] bg-red-500 border-black
-    border-4 rounded-xl flex justify-start items-center p-4 
+    @apply h-[80px] w-[0100%] bg-red-200   rounded-xl flex justify-start items-center p-4 
 }
 
 .inner-block {
     @apply flex justify-center items-center m-3 h-[50px] w-[5%] border-4 border-blue-500 rounded-2xl
+}
+
+
+.search-bar {
+    @apply m-10
 }
