@@ -12,5 +12,5 @@
 
 
 .search-bar {
-    @apply m-10
+    @apply ml-auto mr-[100px]
 }
